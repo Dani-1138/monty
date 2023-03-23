@@ -5,7 +5,7 @@
  * @stack: pointer to the top of the stack
  * @line_number: where the line number appears
  * Description: 8. mul
- * Return: see below
+ * Return: see below alt
  * 1. upon success, nothing
  * 2. upon fail, EXIT_FAILURE
  */
