@@ -2,11 +2,8 @@
 
 /**
  *  get_rotr - Rotate the right
- *
  *  @stack: Stack
- *
  *  @line_number: Line number
- *
  *  Return: Void
  */
 void get_rotr(stack_t **stack, unsigned int line_number)
