@@ -8,13 +8,13 @@
 ]						end loop
 
 						print to standard out:
-> ++ .					putchar H (70 plus 2 = 72)
+> ++ .					putchar S (70 plus 2 = 72)
 > +++++ +++++ +.		putchar o (100 plus 11 = 111)
---- .					putchar l (111 minus 3 = 107)
+--- .					putchar c (111 minus 3 = 107)
 ----- ----- .			putchar b (108 minus 10 = 98)
-+++ .					putchar e (98 plus 3 = 101)
++++ .					putchar h (98 plus 3 = 101)
 +++++ +++++ +++ .		putchar r (101 plus 13 = 114)
-++ .					putchar t (114 plus 2 = 116)
+++ .					putchar o (114 plus 2 = 116)
 ----- .					putchar o (116 minus 5 = 111)
-- .						putchar n (111 minus 1 = 110)
+- .						putchar l (111 minus 1 = 110)
 > .						putchar \n (10)
