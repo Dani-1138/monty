@@ -4,8 +4,8 @@
  * get_sub - function that subtracts the top two elements of the stack
  * @stack: pointer to the top of the stack
  * @line_number: where the line number appears
-i * Description: 6. sub
- * Return: see below
+ * Description: 6. sub
+ * Return: see below alt
  * 1. upon success, nothing
  * 2. upon fail, EXIT_FAILURE
  */
