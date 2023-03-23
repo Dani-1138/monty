@@ -5,7 +5,7 @@
  * @stack: pointer to head of the stack
  * @line_number: where the instruction appears
  * Description: 1. pint
- * Return: see below
+ * Return: see below alternative
  * 1. upon success, nothing
  * 2. upon fail, EXIT_FAILURE
  */
