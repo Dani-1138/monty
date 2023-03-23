@@ -9,12 +9,9 @@
 
 						print to standard out:
 > ++ .					putchar S (70 plus 2 = 72)
-> +++++ +++++ +.		putchar o (100 plus 11 = 111)
---- .					putchar c (111 minus 3 = 107)
------ ----- .			putchar b (108 minus 10 = 98)
-+++ .					putchar h (98 plus 3 = 101)
-+++++ +++++ +++ .		putchar r (101 plus 13 = 114)
-++ .					putchar o (114 plus 2 = 116)
------ .					putchar o (116 minus 5 = 111)
-- .						putchar l (111 minus 1 = 110)
+> +++++ +++++ +.		putchar c (100 plus 11 = 111)
+--- .					putchar h (111 minus 3 = 107)
+----- ----- .			putchar o (108 minus 10 = 98)
++++ .					putchar o (98 plus 3 = 101)
++++++ +++++ +++ .		putchar l (101 plus 13 = 114)
 > .						putchar \n (10)
