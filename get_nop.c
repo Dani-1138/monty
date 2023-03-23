@@ -3,7 +3,6 @@
 
 /**
  *  get_nop - When no operation present
- *
  *  @stack: Header of stack
  *
  *  @line_number: Integer of line numbers
